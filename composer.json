@@ -9,14 +9,9 @@
   ],
   "authors": [
     {
-      "name": "Realex Payments",
+      "name": "gbksoftdev",
       "homepage": "https://www.realexpayments.com/"
     },
-    {
-      "name": "Victor Palomares",
-      "homepage": "http://www.softwaredesign.ie",
-      "role": "Developer"
-    }
   ],
   "license": "MIT",
   "require": {
