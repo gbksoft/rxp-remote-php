@@ -1,5 +1,5 @@
 {
-  "name": "realexpayments/rxp-remote-php",
+  "name": "gbksoft/rxp-remote-php",
   "type": "library",
   "description": "SDK to send requests and parse responses from Realex Payments using Remote",
   "keywords": [
